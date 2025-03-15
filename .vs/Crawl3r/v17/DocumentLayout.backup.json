@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nac18\\source\\repos\\Crawl3r\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73777DB8-CDB0-40FB-836F-4F443187D6B4}|Crawl3r\\Crawl3r.csproj|c:\\users\\nac18\\source\\repos\\crawl3r\\crawl3r\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73777DB8-CDB0-40FB-836F-4F443187D6B4}|Crawl3r\\Crawl3r.csproj|solutionrelative:crawl3r\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nac18\\source\\repos\\Crawl3r\\Crawl3r\\Program.cs",
+              "RelativeDocumentMoniker": "Crawl3r\\Program.cs",
+              "ToolTip": "C:\\Users\\nac18\\source\\repos\\Crawl3r\\Crawl3r\\Program.cs",
+              "RelativeToolTip": "Crawl3r\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:26:46.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

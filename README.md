@@ -1,8 +1,6 @@
-Crawl3r
-Versión 1.0
+Crawl3r - Versión 1.0
+Web scraper diseñado para extraer datos de páginas web de manera eficiente en C#
 
-Crawl3r es un web scraper diseñado para extraer datos de páginas web de manera eficiente
-
-- Permite ingresar una URL y obtener información
-- Utiliza requests y BeautifulSoup para extraer contenido
+- Permite ingresar una URL y obtener todos los enlaces de la página
+- Utiliza PuppeteerSharp para automatizar la extracción de contenido
 - Fácil de modificar y expandir para diferentes necesidades :)
